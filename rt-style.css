@@ -1,0 +1,18 @@
+            body{
+                margin:0;
+                padding:0;
+            }
+            #text{
+                text-align: center;
+                font-family: 'Rajdhani', sans-serif;
+                background-color:darkcyan;
+                color: aliceblue;
+                font-size: 20px;
+            }
+            #shape{
+                width: 200px;
+                height: 200px;
+                background-color: red;
+                display:none;
+                position: relative;   
+            }
