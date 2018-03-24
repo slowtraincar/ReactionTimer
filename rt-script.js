@@ -2,8 +2,7 @@
             var start = new Date().getTime();
 /*High score array*/       
             var highScore = [];
-            
-            alert(window.innerHeight);
+          
             
 /*Set random color*/    
             
