@@ -1,9 +1,9 @@
-      /*Timer*/            
+ /*Timer*/            
             var start = new Date().getTime();
+
 /*High score array*/       
             var highScore = [];
-          
-            
+                      
 /*Set random color*/    
             
             function getRandomColor() {
